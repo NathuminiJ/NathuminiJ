@@ -1,5 +1,5 @@
 # Hi there! 👋
-# Hi there! 👋  
+
 I'm **Nathumini Pramuditha Jayathilake**, a passionate learner in **Data Science, Full-Stack Development**, and solving real-world problems with code — currently pursuing a **BSc (Hons) in Computing** at **Staffordshire University (UK)** via **APIIT Kandy Campus**.
 
 ## 🚀 About Me  
