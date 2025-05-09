@@ -1,6 +1,5 @@
 # Hi there! 👋
 ##🚀 About Me:
-
   *💻 Full-Stack Developer with experience in HTML, CSS, JavaScript, PHP, C#, SQL, Kotlin, Python, and Arduino
   *🎓 Currently pursuing a BSc (Hons) in Computing at Staffordshire University (UK) via APIIT Kandy Campus
   * 🛠 Skilled in UI/UX design, prototyping, CRUD operations, role-based access control, and responsive web design
