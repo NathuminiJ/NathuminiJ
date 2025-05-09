@@ -20,9 +20,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## GitHub Stats:
-
-[![Nathumini Jayathilake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dark)](https://github.com/NathuminiJ)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathuminiJ&show_icons=true&theme=dark)](https://github.com/NathuminiJ)
 <!---
 
 NathuminiJ/NathuminiJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
