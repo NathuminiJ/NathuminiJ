@@ -1,10 +1,12 @@
-# 👋 Hi, I’m @NathuminiJ
-* 👀 I’m interested in Data Science, Full-Stack Development, and solving real-world problems with code.
-* 🌱 I’m currently learning PHP with MVC architecture, Tailwind CSS, and mobile app development.
-* 💞️ I’m looking to collaborate on open-source projects related to web and mobile applications, especially those that benefit local communities.
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nathumini-jayathilake) | Email: [npramuditha03@gmail.com](mailto:npramuditha03@gmail.com)
-* 😄 Pronouns: She/Her
-* ⚡ Fun fact: I code better with pink stationery and cute playlists in the background!
+# Hi there! 👋
+##🚀 About Me:
+
+  *💻 Full-Stack Developer with experience in HTML, CSS, JavaScript, PHP, C#, SQL, Kotlin, Python, and Arduino
+  *🎓 Currently pursuing a BSc (Hons) in Computing at Staffordshire University (UK) via APIIT Kandy Campus
+  * 🛠 Skilled in UI/UX design, prototyping, CRUD operations, role-based access control, and responsive web design
+  *💡 Passionate about data science, mobile/web development, and open-source projects that benefit local communities
+  * 🤝 Strong soft skills in team collaboration, project coordination, and public speaking
+
 * ## Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathumini-jayathilake)
